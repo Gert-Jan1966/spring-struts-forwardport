@@ -12,4 +12,4 @@ Struts support has been deprecated since Spring 3.0.0 and disappeared since Spri
 - Changed the Maven groupId and artifactId to reflect the fact that this is not a normal Spring package.
 
 ### Compatibility
-This package seems to work fine with Spring 4.2.5.
+This package seems to work fine with Spring 4.2.6 and 4.3.0.
